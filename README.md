@@ -8,3 +8,5 @@
 Rakeshtsg/Rakeshtsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+"We are thrilled to embark on this new journey as V Electros in the electronics inventory industry. With a strong foundation in technology and a passion for innovation, we are confident in our ability to provide top-quality products and services to our customers. We look forward to the opportunity to grow and learn as we navigate this exciting industry, and we are eager to make a positive impact in the world of electronics inventory."
