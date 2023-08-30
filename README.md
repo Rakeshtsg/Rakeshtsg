@@ -31,8 +31,8 @@
   
  [![Rakeshtsg's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rakeshtsg&&theme=xcode)](https://github.com/Rakeshtsg) 
   
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakeshtsg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rakeshtsg" /></p> 
   
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="Rakeshtsg" /></p> 
   
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&&theme=tokyonight" alt="Rakeshtsg" /></p>
