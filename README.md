@@ -12,7 +12,7 @@
   
  - 🌱 I’m currently learning *DevOps* 
   
- - 💬 Ask me about *Android , MEARN* 
+ - 💬 Ask me about *Machine learning,electronic hobby project,drone technology,pcb designing * 
   
  - 📫 How to reach me *rakeshtsraki96@gmail.com* 
   
