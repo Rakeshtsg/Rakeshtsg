@@ -17,7 +17,26 @@
  - 📫 How to reach me *rakeshtsraki96@gmail.com* 
   
  - ⚡ Fun fact *I am Silent * 
-  
+  RoleHiveX — Job Portal
+Live production-grade recruitment platform with role-based access.
+Built for scalable hiring workflows and high-availability delivery.
+URL: https://rolehivex.vercel.app/
+
+V-AUTHON — Robotics LLM GPT (Pre-Deploy)
+Robotics-focused GPT engineered for automation and AI decision support.
+Foundation for intelligent robotics assistants and system orchestration.
+URL: https://predeploy-v-authon.vercel.app/
+
+Personal Portfolio
+High-performance engineering portfolio with project-driven storytelling.
+Optimized for recruiters, scalability, and technical credibility.
+URL: https://portfolio-deploy-roan.vercel.app/
+
+Advanced VR Robotics Simulation (Pre-Deploy)
+Immersive VR-style robotics simulation for training and prototyping.
+Future-ready for AI agents, ROS, and hardware-in-the-loop systems.
+URL: https://predeploypage.vercel.app/
+
  <h3 align="left">Connect with me:</h3> 
  <p align="left"> 
  <a href="https://twitter.com/TSRAKESHRaki1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RAKESH T S" height="30" width="40" /></a> 
