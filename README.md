@@ -139,9 +139,16 @@ URL: https://predeploypage.vercel.app/
 
   
 
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakeshtsg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rakeshtsg" /></p> 
-  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakeshtsg&show_icons=true&locale=en&theme=tokyonight" alt="Rakeshtsg" /></p> 
-  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&&theme=tokyonight" alt="Rakeshtsg" /></p>
+  <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakeshtsg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rakeshtsg&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
