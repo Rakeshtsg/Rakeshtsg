@@ -143,10 +143,7 @@ URL: https://predeploypage.vercel.app/
 
 <div align="center">
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&theme=radical&hide_border=true&background=00000000&v=2" 
-  alt="Streak"
-/>
+<img  src="https://streak-stats.demolab.com?user=Rakeshtsg&theme=radical&hide_border=true&background=00000000" alt="Streak"/>
 
 
 
