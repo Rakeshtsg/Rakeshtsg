@@ -143,7 +143,8 @@ URL: https://predeploypage.vercel.app/
 
 <div align="center">
 
-<img  src="https://streak-stats.demolab.com?user=Rakeshtsg&theme=radical&hide_border=true&background=00000000" alt="Streak"/>
+![Streak](https://streak-stats.demolab.com?user=Rakeshtsg&theme=radical)
+
 
 
 
