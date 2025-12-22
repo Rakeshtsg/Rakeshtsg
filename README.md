@@ -143,10 +143,20 @@ URL: https://predeploypage.vercel.app/
 
 <div align="center">
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&theme=nightowl&hide_border=true&background=00000000" alt="Streak" /> 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Rakeshtsg&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&theme=nightowl&hide_border=true&background=00000000" alt="Streak" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshtsg&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" alt="Languages" /> 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rakeshtsg&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000" alt="Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&theme=nightowl&hide_border=true&background=00000000" alt="Streak" /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshtsg&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000" alt="Languages" /> 
+
 
 
 </div>
