@@ -140,5 +140,6 @@ URL: https://predeploypage.vercel.app/
   
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakeshtsg&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rakeshtsg&show_icons=true&theme=tokyonight)
-![Rakesh's GitHub Streak](https://streak-stats.demolab.com/?user=Rakeshtsg&theme=default&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshtsg&theme=nightowl&hide_border=true&background=00000000" alt="Streak" /> 
+
 
